@@ -1,81 +1,71 @@
-
 {
-type: "FeatureCollection",
-features: [
-{
-type: "Feature",
-geometry: {
-type: "Point",
-coordinates: [
--70.6161411,
--33.4463031
-]
-},
-properties: {
-Building-Wrap: false,
-Mega-Formato: false,
-Muro-Ciego: false,
-Pantalla-Digital: true,
-Pasarela: false,
-Terracero: false,
-Top-Site: false,
-Unipole: false,
-Valla: false,
-description: "Pantalla Digital",
-title: "Manuel Montt con Santa Isabel",
-iconF: "pantallaIcon",
-comuna: "Providencia"
-}
-},
-{
-type: "Feature",
-geometry: {
-type: "Point",
-coordinates: [
--70.71161,
--33.45853
-]
-},
-properties: {
-Building-Wrap: false,
-Mega-Formato: false,
-Muro-Ciego: false,
-Pantalla-Digital: false,
-Pasarela: true,
-Terracero: false,
-Top-Site: false,
-Unipole: false,
-Valla: false,
-description: "Pasarela",
-title: "Pasarela Pajaritos (G.Marin) acceso desde Alameda",
-iconF: "companyImage",
-comuna: "Maipu"
-}
-},
-{
-type: "Feature",
-geometry: {
-type: "Point",
-coordinates: [
--70.62507,
--33.39458
-]
-},
-properties: {
-Building-Wrap: false,
-Mega-Formato: true,
-Muro-Ciego: false,
-Pantalla-Digital: false,
-Pasarela: false,
-Terracero: false,
-Top-Site: false,
-Unipole: false,
-Valla: false,
-description: "Mega Formato",
-title: "Americo Vespucio / El Salto (Acceso la piramide) BNUP",
-iconF: "companyImage",
-comuna: "Recoleta "
-}
-}
-]
+	"type": "FeatureCollection",
+	"features": [
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-70.6161411, -33.4463031]
+		},
+		"properties": {
+			"Building-Wrap": false,
+			"Mega-Formato": false,
+			"Muro-Ciego": false,
+			"Pantalla-Digital": true,
+			"Pasarela": false,
+			"Terracero": false,
+			"Top-Site": false,
+			"Unipole": false,
+			"Valla": false,
+			"description": "Pantalla Digital",
+			"title": "Manuel Montt con Santa Isabel",
+			"iconF": "pantallaIcon",
+			"comuna": "Providencia"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-70.7116100, -33.4585300]
+		},
+		"properties": {
+			"Building-Wrap": false,
+			"Mega-Formato": false,
+			"Muro-Ciego": false,
+			"Pantalla-Digital": false,
+			"Pasarela": true,
+			"Terracero": false,
+			"Top-Site": false,
+			"Unipole": false,
+			"Valla": false,
+			"description": "Pasarela",
+			"title": "Pasarela Pajaritos (G.Marin) acceso desde Alameda",
+			"iconF": "companyImage",
+			"comuna": "Maipu"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-70.6250700, -33.3945800]
+		},
+		"properties": {
+			"Building-Wrap": false,
+			"Mega-Formato": true,
+			"Muro-Ciego": false,
+			"Pantalla-Digital": false,
+			"Pasarela": false,
+			"Terracero": false,
+			"Top-Site": false,
+			"Unipole": false,
+			"Valla": false,
+			"description": "Mega Formato",
+			"title": "Americo Vespucio /  El Salto (Acceso la piramide) BNUP",
+			"iconF": "companyImage",
+			"comuna": "Recoleta "
+		}
+	}
+	]
 }
