@@ -8,19 +8,14 @@
 			"coordinates": [-70.6161411, -33.4463031]
 		},
 		"properties": {
-			"Building-Wrap": false,
-			"Mega-Formato": false,
-			"Muro-Ciego": false,
-			"Pantalla-Digital": true,
-			"Pasarela": false,
-			"Terracero": false,
-			"Top-Site": false,
-			"Unipole": false,
-			"Valla": false,
-			"description": "Pantalla Digital",
-			"title": "Manuel Montt con Santa Isabel",
-			"iconF": "pantallaIcon",
-			"comuna": "Providencia"
+			"region": "RM",
+			"comuna": "Providencia",
+			"local": "Estado",
+			"direccion": "Estado #251, Santiago Centro",
+			"horarios": "Lunes a Viernes 10:00am a 20:00pm – Sab 10:00am a 15:00pm",
+			"fono": "Estado #251, Santiago Centro",
+			"email": "tiendaestado@topwear.cl",
+			"img": "img/dummy/tienda.jpg"
 		}
 	},
 	{
@@ -30,19 +25,14 @@
 			"coordinates": [-70.7116100, -33.4585300]
 		},
 		"properties": {
-			"Building-Wrap": false,
-			"Mega-Formato": false,
-			"Muro-Ciego": false,
-			"Pantalla-Digital": false,
-			"Pasarela": true,
-			"Terracero": false,
-			"Top-Site": false,
-			"Unipole": false,
-			"Valla": false,
-			"description": "Pasarela",
-			"title": "Pasarela Pajaritos (G.Marin) acceso desde Alameda",
-			"iconF": "companyImage",
-			"comuna": "Maipu"
+			"region": "RM",
+			"comuna": "Providencia",
+			"local": "Ejemplo 2",
+			"direccion": "Estado #251, Santiago Centro",
+			"horarios": "Lunes a Viernes 10:00am a 20:00pm – Sab 10:00am a 15:00pm",
+			"fono": "Estado #251, Santiago Centro",
+			"email": "tiendaestado@topwear.cl",
+			"img": "img/dummy/tienda.jpg"
 		}
 	},
 	{
@@ -52,19 +42,14 @@
 			"coordinates": [-70.6250700, -33.3945800]
 		},
 		"properties": {
-			"Building-Wrap": false,
-			"Mega-Formato": true,
-			"Muro-Ciego": false,
-			"Pantalla-Digital": false,
-			"Pasarela": false,
-			"Terracero": false,
-			"Top-Site": false,
-			"Unipole": false,
-			"Valla": false,
-			"description": "Mega Formato",
-			"title": "Americo Vespucio /  El Salto (Acceso la piramide) BNUP",
-			"iconF": "companyImage",
-			"comuna": "Recoleta "
+			"region": "RM",
+			"comuna": "Providencia",
+			"local": "Ejemplo 3",
+			"direccion": "Estado #251, Santiago Centro",
+			"horarios": "Lunes a Viernes 10:00am a 20:00pm – Sab 10:00am a 15:00pm",
+			"fono": "Estado #251, Santiago Centro",
+			"email": "tiendaestado@topwear.cl",
+			"img": "img/dummy/tienda.jpg"
 		}
 	}
 	]
